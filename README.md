@@ -2,6 +2,9 @@
 
 Interactive golf ball trajectory simulator demonstrating fluid dynamics principles with an AI-powered Caddy assistant.
 
+<img width="1444" height="715" alt="AeroLinks" src="https://github.com/user-attachments/assets/b58b2603-d968-4a61-b534-dea69ec3495b" />
+
+
 ## Features
 
 - **Realistic Physics Engine**: Simulates ball flight using Magnus effect, drag coefficients, and spin decay
