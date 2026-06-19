@@ -1,0 +1,13 @@
+[project]
+name = "aerolinks"
+version = "0.1.0"
+description = "Interactive golf ball trajectory simulator with AI Caddy"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit>=1.45.0",
+    "numpy>=2.0.0",
+    "plotly>=6.0.0",
+    "openai>=1.80.0",
+    "python-dotenv>=1.0.0",
+]
